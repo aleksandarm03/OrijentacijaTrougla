@@ -1,0 +1,1 @@
+Program ispisuje poruku da li se trougli ABC i ABD nalaze sa iste strane prave AB.
